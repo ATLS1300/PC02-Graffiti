@@ -4,7 +4,7 @@ To get started on this assignment, download or clone the files in this repositor
 <br>
 <br>
 <br>
-This assignment allows you to practice your drawing using navigation and  pixel locations to drawing shapes and lines. You'll use the turtle library to modify an image using the code snippets we built during the week.Download this starter repository. In it, you'll find a starter code and this picture of JEFF BEZOS. You may draw whatever you like--positive or negative or whacky imagery. Please keep content appropriate.
+This assignment allows you to practice your drawing using navigation and  pixel locations to drawing shapes and lines. You'll use the turtle library to modify an image using the code snippets we built during the week.Download this starter repository. In it, you'll find a starter code and a picture of JEFF BEZOS. You may draw whatever you like--positive or negative or whacky imagery. Please keep content appropriate.
 <br><br>
 To draw on Jeff Bezos, you may have to move your turtle to different pixel locations. A pixel, short for picture element, is the smallest unit of a picture. Most screens have upwards of 1000 pixels in its longest dimension. 
 <br><br>
