@@ -1,8 +1,7 @@
 # PC02-Graffiti
 <br>
+To get started on this assignment, download or clone the files in this repository. To do so, click the green button above and select the option that works for you. If you choose to download a zipped folder, remember to unzip it into the folder for this class that you have on your computer.
 <br>
-To get started on this assignment, download or clone the files in this repository. To do so, click the green botton above and select the option that works for you. If you choose to download a zipped folder, remember to unzip it into the folder for this class that you have on your computer.
-
 <br>
 <br>
 This assignment allows you to practice your drawing using navigation and  pixel locations to drawing shapes and lines. You'll use the turtle library to modify an image using the code snippets we built during the week.Download this starter repository. In it, you'll find a starter code and this picture of JEFF BEZOS. You may draw whatever you like--positive or negative or whacky imagery. Please keep content appropriate.
