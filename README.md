@@ -17,15 +17,17 @@ myTurtleName.forward(375)
 <br><br>
 To Jeff Bezos' picture, add at least 2 different geometric shapes - this could be a circle, a polygon (+4 sides), and/or a line.
 <br><br>
-For full credit, these shapes must:<br>
+# For full credit, these shapes must:<br>
 1.  have different weights (or thicknesses) of the lines<br>
 2.  be drawn at different positions on the screen (you can use goto(x,y) for a specific position, or pick up the pen up() and use forward() and turns (left(), right()) to navigate your turtle)
 <br>
 <br>
-## EXTRA CREDIT
+# EXTRA CREDIT
 <br>
 0.5 pts - create a 3rd shape<br>
 0.5 pts - set at least one color using RGB values.<br>
 0.5 pts - create one unfilled and one filled shape<br>
 <br><br>
-For full credit, save your .py file as:PC02_Graffiti_YOURLASTNAME_PARTNERLASTNAME.pyNote! This means each person in a group has a differently named file!
+For full credit, save your .py file as:<br>
+<b>PC02_Graffiti_YOURLASTNAME_PARTNERLASTNAME.py</b><br>
+</i>Note! This means each person in a group has a differently named file!</i>
