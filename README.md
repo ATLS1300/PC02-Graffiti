@@ -18,11 +18,11 @@ myTurtleName.forward(375)
 To Jeff Bezos' picture, add at least 2 different geometric shapes - this could be a circle, a polygon (+4 sides), and/or a line.
 <br><br>
 For full credit, these shapes must:<br>
-have different weights (or thicknesses) of the lines<br>
-be drawn at different positions on the screen (you can use goto(x,y) for a specific position, or pick up the pen up() and use forward() and turns (left(), right()) to navigate your turtle)
+1.  have different weights (or thicknesses) of the lines<br>
+2.  be drawn at different positions on the screen (you can use goto(x,y) for a specific position, or pick up the pen up() and use forward() and turns (left(), right()) to navigate your turtle)
 <br>
 <br>
-##EXTRA CREDIT<br>
+## EXTRA CREDIT<br>
 0.5 pts - create a 3rd shape<br>
 0.5 pts - set at least one color using RGB values.<br>
 0.5 pts - create one unfilled and one filled shape<br>
