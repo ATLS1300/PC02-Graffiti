@@ -22,7 +22,8 @@ For full credit, these shapes must:<br>
 2.  be drawn at different positions on the screen (you can use goto(x,y) for a specific position, or pick up the pen up() and use forward() and turns (left(), right()) to navigate your turtle)
 <br>
 <br>
-## EXTRA CREDIT<br>
+## EXTRA CREDIT
+<br>
 0.5 pts - create a 3rd shape<br>
 0.5 pts - set at least one color using RGB values.<br>
 0.5 pts - create one unfilled and one filled shape<br>
