@@ -7,7 +7,7 @@ To get started on this assignment, download or clone the files in this repositor
 <br>
 <br>
 
-## Assignment Goal
+## The Assignment
 1. Practice drawing using turtle's navigation and pixel locations.
 2. Practice drawing shapes and lines. 
 3. Explore the turtle library functions.
@@ -35,9 +35,9 @@ The start code sets the drawing window to 750 x 750 pixels, meaning you have 750
 To this image, add **at least 2 different geometric shapes** - a circle, a polygon (+4 sides), and a line
 
 For full credit, these shapes must:
-
-   - have different weights (or thicknesses) of the lines
-   - be drawn at different positions on the screen (you can use ```goto(x,y)``` for a specific position, or pick up the pen ```up()``` and use ```forward()``` and turns (```left()```, ```right()```) to navigate your turtle)
+    1. have different weights (or thicknesses) of the lines
+    2. be drawn at different positions on the screen 
+    (Hint: to navigate your turtle, you can use ```goto(x,y)``` for a specific position, or pick up the pen ```up()``` and use ```forward()``` and turns (```left()```, ```right()```).
 
 ## HOW YOU SHOULD SPEND RECITATION:
 
