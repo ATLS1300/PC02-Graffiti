@@ -1,10 +1,9 @@
 # PC02-Graffiti - Read thoroughly before starting!
 <br>
-To get started on this assignment, download or clone the files in this repository. To do so:
-1. Click the green button above 
-2. Select download zipped folder. 
+To get started on this assignment, download or clone the files in this repository. To do so:<br>
+1. Click the green button above <br>
+2. Select download zipped folder. <br>
 3. Unzip the downloaded file and place the created folder into the folder for this class that you have on your computer.
-<br>
 <br>
 <br>
 
