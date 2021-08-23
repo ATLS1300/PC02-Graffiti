@@ -8,8 +8,12 @@ To get started on this assignment, download or clone the files in this repositor
 <br>
 
 ## Assignment Goal
+1. Practice drawing using turtle's navigation and pixel locations.
+2. Practice drawing shapes and lines. 
+3. Explore the turtle library functions.
+4. Create some art! (Graffiti is art, you know.)
 
-This assignment allows you to practice your drawing using navigation and pixel locations to drawing shapes and lines. You'll use the **turtle library** to modify an image using the code snippets we built during the week.
+You'll use the **turtle library** to modify an image using the code snippets we built during the week.
 
 Download this starter repository. In it, you'll find a starter code and this picture of JEFF BEZOS (below). The start code already loads in the image of JEFF BEZOS to your turtle panel. On this image, you may draw whatever you like--positive or negative or whacky imagery. Please keep content appropriate.
 
