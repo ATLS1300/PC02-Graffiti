@@ -28,3 +28,8 @@ panel.bgpic(image)
 #=======Add your code here======
 
 
+
+
+#=======Clean up code (do not change)======
+# this code ensures that your script runs correctly each time.
+done()
