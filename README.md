@@ -76,4 +76,12 @@ Save your .py file as:
 
 Submit through Github Classrooms by uploading the file into **this repository**. 
 
+## Resources
+[Turtle Cheat Sheet](https://canvas.colorado.edu/courses/75648/pages/turtle-cheat-sheet?module_item_id=3014370) - quick list of turtle functions and how to use them.
 
+[Jeff Bezos Coordinates](https://canvas.colorado.edu/courses/75648/pages/jeff-bezos-useful-coordinates) - get started faster!
+
+[Turtle Colors](https://cs111.wellesley.edu/labs/lab01/colors) - All of turtles string colors. There are so many..."The colors, Duke, the colors!"
+(Dr. Z is aware no one will get this reference. #eldermillenial)
+
+[Turtle Documentation](https://docs.python.org/3/library/turtle.html) - a deep dive into the turtle library
