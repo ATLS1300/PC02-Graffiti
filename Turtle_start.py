@@ -21,9 +21,14 @@ panel.setup(width=w, height=h) #600 x 600 is a decent size to work on.
 #You can experiment by making it the size of your screen or super tiny!
 
 # Create a colorful background and add Bezos image to it
-image = "Bezos.gif"
-panel.bgcolor("lightsteelblue1")
-panel.bgpic(image)
+panel.bgcolor("black")
+image = "ElonMuskTalking.gif"
+
+# uncomment the 2 lines below to use a different image.
+# image = "ElonMuskConfused.gif"
+# panel.bgcolor("tan")
+
+panel.bgpic(image) # sets the background to the selected image.
 
 #=======Add your code here======
 
