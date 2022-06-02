@@ -15,9 +15,9 @@ To get started on this assignment, download or clone the files in this repositor
 
 You'll use the **turtle library** to modify an image using the code snippets we built during the week.
 
-Download this starter repository. In it, you'll find a starter code and either picture of ELON MUSK (below). The start code already loads in the image of ELON MUSK to your turtle panel. On this image, you may draw whatever you like--positive, neutral or negative or whacky imagery. We are all adults, and please keep content appropriate.
+Download this starter repository. In it, you'll find a starter code and either picture of ELON MUSK (below). The start code already loads in the image of ELON MUSK to your turtle panel. On this image, you may draw whatever you like--positive, neutral or negative or whacky imagery. We are all adults, and please make some reasonable choices.
 
-![Elon Musk](https://github.com/ATLS1300/PC02-Graffiti/blob/master/ElonMuskTalking.gif), ![Elon Musk](https://github.com/ATLS1300/PC02-Graffiti/blob/master/ElonMuskConfused.gif)
+<img src="https://github.com/ATLS1300/PC02-Graffiti/blob/master/ElonMuskTalking.gif" width="433" height="296">, <img src="https://github.com/ATLS1300/PC02-Graffiti/blob/master/ElonMuskConfused.gif" width="420" height="280">
 
 
 >Elon Musk is the CEO of PayPal and the owner of Tesla, Neuralink and Starlink, recently reported to have a net worth of $223 billion dollars (that's: $223,000,000,000,000, or the GDP of Iraq or Peru in 2019), making him one of the richest human in history. Bezos has seen a 10-fold increase in wealth since the start of COVID-19 ($25B in 202 to $223B in 2022).
