@@ -20,7 +20,7 @@ Download this starter repository. In it, you'll find a starter code and either p
 <img src="https://github.com/ATLS1300/PC02-Graffiti/blob/master/ElonMuskTalking.gif" width="433" height="296">, <img src="https://github.com/ATLS1300/PC02-Graffiti/blob/master/ElonMuskConfused.gif" width="420" height="280">
 
 
->Elon Musk is the CEO of PayPal and the owner of Tesla, Neuralink and Starlink, recently reported to have a net worth of $223 billion dollars (that's: $223,000,000,000,000, or the GDP of Iraq or Peru in 2019), making him one of the richest human in history. Bezos has seen a 10-fold increase in wealth since the start of COVID-19 ($25B in 202 to $223B in 2022).
+>Elon Musk is the CEO of PayPal and the owner of Tesla, Neuralink and Starlink, recently reported to have a net worth of $223 billion dollars (that's: $223,000,000,000,000, or the GDP of Iraq or Peru in 2019), making him one of the richest human in history. Musk has seen a 10-fold increase in wealth since the start of COVID-19 ($25B in 202 to $223B in 2022).
 
 >To draw on Elon Musk, you may have to move your turtle to different pixel locations. A pixel, short for **pic**ture **el**ement, is the smallest unit of a picture. Most screens have upwards of 1000 pixels in its longest dimension. To get a sense of what pixels are and how right Elon Musk is, check out this [data visualization]([https://mkorostoff.github.io/1-pixel-wealth/](https://engaging-data.com/how-rich-is-elon-musk/)).
 
